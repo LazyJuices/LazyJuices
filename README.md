@@ -1,3 +1,3 @@
-## Hi there 👋
-[Visit the other repository](https://github.com/LazyJuices/debian-11)
+## Halo
+[repo debian 11](https://github.com/LazyJuices/debian-11/blob/main/repo.txt)
 
